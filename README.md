@@ -39,7 +39,7 @@
 ├── deposit.js           # Handles deposit functionality
 ├── withdraw.js          # Handles withdrawal functionality
 ├── README.md            # Project documentation
-└── tailwind.css         # Tailwind CSS for styling (loaded via CDN)
+└── tailwind.config.css  # Tailwind CSS for styling
 ```
 
 ## How to Run
